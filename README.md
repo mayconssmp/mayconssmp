@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Maycon 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend em formação, com foco no ecossistema Java
+  Desenvolvedor Fullstack em formação, com foco no ecossistema Java e javaScript
 </p>
 
 <p align="center">
