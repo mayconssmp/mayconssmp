@@ -55,13 +55,12 @@
 
 ### 📌 Projetos em destaque
 
-<!--
-Dica: substitua os links abaixo pelos seus repositórios reais.
-Escolha de 4 a 6 projetos que mostrem diferentes habilidades.
--->
+- **[finance-tracker](https://github.com/mayconssmp/finance-tracker)** — Controle de finanças pessoais construído com HTML, CSS, JavaScript e Firebase.
 
-- **[nome-do-projeto](https://github.com/mayconssmp/nome-do-projeto)** — Breve descrição do que o projeto faz e quais tecnologias foram usadas.
-- **[nome-do-projeto-2](https://github.com/mayconssmp/nome-do-projeto-2)** — Breve descrição do que o projeto faz e quais tecnologias foram usadas.
+<!--
+Assim que você subir novos projetos (especialmente em Java/Spring Boot),
+adicione uma linha aqui no mesmo formato para reforçar seu perfil backend.
+-->
 
 ---
 
