@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Maycon 👋</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack em formação, com foco nos ecossistemas Java e javaScript
+  Desenvolvedor Backend em formação, com foco no ecossistema Java
 </p>
 
 <p align="center">
@@ -55,12 +55,9 @@
 
 ### 📌 Projetos em destaque
 
+- **[estoque-api](https://github.com/mayconssmp/estoque-api)** — API REST de controle de estoque com Java, Spring Boot, Spring Data JPA e MySQL. Implementa cadastro de produtos e categorias, e movimentações de entrada/saída com validação de saldo.
+- **[estoque-frontend](https://github.com/mayconssmp/estoque-frontend)** — Interface em React que consome a estoque-api, com formulários de cadastro e listagem de produtos em tempo real.
 - **[finance-tracker](https://github.com/mayconssmp/finance-tracker)** — Controle de finanças pessoais construído com HTML, CSS, JavaScript e Firebase.
-
-<!--
-Assim que você subir novos projetos (especialmente em Java/Spring Boot),
-adicione uma linha aqui no mesmo formato para reforçar seu perfil backend.
--->
 
 ---
 
