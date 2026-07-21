@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Maycon 👋</h1>
+<h1 align="center">Olá, eu sou o Maycon </h1>
 
 <p align="center">
   Desenvolvedor Backend em formação, com foco no ecossistema Java
@@ -15,19 +15,19 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-- 🎓 Bacharelando em **Sistemas de Informação** pelo **IFBA** (Campus Vitória da Conquista), previsão de conclusão em 2028
-- 💻 Foco em **Java**, **Spring Boot** e **APIs RESTful**
-- 🗄️ Modelagem de bancos de dados relacionais (**MySQL** e **SQLite**)
-- 🎨 Também trabalho com **React.js** no front-end
-- 🌱 Estudando **Arquitetura de Microsserviços** e **Microfrontends**
-- 🐧 Ambiente **Linux** no dia a dia
-- 📍 Vitória da Conquista, BA
+-  Bacharelando em **Sistemas de Informação** pelo **IFBA** (Campus Vitória da Conquista), previsão de conclusão em 2028
+-  Foco em **Java**, **Spring Boot** e **APIs RESTful**
+-  Modelagem de bancos de dados relacionais (**MySQL** e **SQLite**)
+-  Também trabalho com **React.js** no front-end
+-  Estudando **Arquitetura de Microsserviços** e **Microfrontends**
+-  Ambiente **Linux** no dia a dia
+-  Vitória da Conquista, BA
 
 ---
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 **Linguagens**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayconssmp&show_icons=true&theme=default" alt="Estatísticas do GitHub de Maycon" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 📫 Como me encontrar
+###  Como me encontrar
 
 - LinkedIn: [maycon-sampaioo](https://www.linkedin.com/in/maycon-sampaioo/)
 - E-mail: mayconsampaio74@gmail.com
