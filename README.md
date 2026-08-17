@@ -21,7 +21,6 @@
 -  Foco em **Java**, **Spring Boot** e **APIs RESTful**
 -  Modelagem de bancos de dados relacionais (**MySQL** e **SQLite**)
 -  Também trabalho com **React.js** no front-end
--  Estudando **Arquitetura de Microsserviços** e **Microfrontends**
 -  Ambiente **Linux** no dia a dia
 -  Vitória da Conquista, BA
 
